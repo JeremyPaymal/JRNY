@@ -1,5 +1,5 @@
 # JRNY
-## Video Demo:  Coming soon 
+## Video Demo:  https://travel-agency-basic.netlify.app/
 
 ## Description:
 <hr>
