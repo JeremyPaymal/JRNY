@@ -25,3 +25,9 @@ video {
     font-size: 100px;
     margin-top: -100px;
 }
+
+@media screen and (max-width: 450px){
+    .service-container > h1 {
+        font-size: 60px;
+    }
+}
