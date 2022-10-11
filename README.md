@@ -10,11 +10,11 @@ JRNY is a website for a Travel Agency. It doesn't exist for real.
 As a novice front end web developer, I want to train my skills. This website is a good way to practice React.
 <br>
 <br>
-For this app, I used: 
-    - HTML
-    - CSS
-    - Javascript
-    - React JS
+For this app, I used: <br>
+    - HTML<br>
+    - CSS<br>
+    - Javascript<br>
+    - React <br>
 
 
 
